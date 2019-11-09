@@ -7,3 +7,9 @@
 # 
 # @brief SystemInit.sh(shell)
 # @description System development environment init 
+# 
+# @brief PythonInit.sh(shell)
+# @description Python development environment init
+# 
+# @brief FullOperator.sh(shell)
+# @description Full scale operation 
